@@ -14,7 +14,7 @@
         :size="size"
       />
     </div>
-    <div class="block">
+    <div class="block">p
       <span class="demonstration">Picker with quick options</span>
       <el-date-picker
         v-model="value2"
